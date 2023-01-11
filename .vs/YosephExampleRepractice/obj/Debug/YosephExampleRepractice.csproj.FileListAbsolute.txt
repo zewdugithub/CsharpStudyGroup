@@ -1,0 +1,8 @@
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\bin\Debug\YosephExampleRepractice.exe.config
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\bin\Debug\YosephExampleRepractice.exe
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\bin\Debug\YosephExampleRepractice.pdb
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\obj\Debug\YosephExampleRepractice.csproj.AssemblyReference.cache
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\obj\Debug\YosephExampleRepractice.csproj.SuggestedBindingRedirects.cache
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\obj\Debug\YosephExampleRepractice.csproj.CoreCompileInputs.cache
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\obj\Debug\YosephExampleRepractice.exe
+C:\Users\zatw3\OneDrive\Desktop\csharpeStudy\Assignment3\YosephExampleRepractice\obj\Debug\YosephExampleRepractice.pdb
