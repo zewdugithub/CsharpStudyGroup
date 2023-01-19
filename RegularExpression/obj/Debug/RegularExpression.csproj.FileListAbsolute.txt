@@ -1,0 +1,8 @@
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\bin\Debug\RegularExpression.exe.config
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\bin\Debug\RegularExpression.exe
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\bin\Debug\RegularExpression.pdb
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\obj\Debug\RegularExpression.csproj.AssemblyReference.cache
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\obj\Debug\RegularExpression.csproj.SuggestedBindingRedirects.cache
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\obj\Debug\RegularExpression.csproj.CoreCompileInputs.cache
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\obj\Debug\RegularExpression.exe
+C:\Users\Renen\Desktop\YKFULL\Z\CsharpStudyGroup\RegularExpression\obj\Debug\RegularExpression.pdb
